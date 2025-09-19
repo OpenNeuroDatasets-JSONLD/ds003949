@@ -7,7 +7,7 @@
         "TermURL": "nb:ParticipantID",
         "Label": ""
       },
-      "Identifies": "participant"
+      "VariableType": "Identifier"
     }
   },
   "exam_date": {
@@ -35,7 +35,8 @@
           "TermURL": "snomed:432119003",
           "Label": ""
         }
-      }
+      },
+      "VariableType": "Categorical"
     }
   }
 }
